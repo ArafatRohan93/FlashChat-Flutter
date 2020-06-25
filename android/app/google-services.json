@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "694216126024",
+    "firebase_url": "https://flash-chat-4505f.firebaseio.com",
+    "project_id": "flash-chat-4505f",
+    "storage_bucket": "flash-chat-4505f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694216126024:android:84ac55e740747e649af27d",
+        "android_client_info": {
+          "package_name": "co.rohanarafat.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694216126024-0eg3n4dhop6g8tv7jjs2ctuust93mki0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFfIrTNLnVY30fl_onDEGjsGu0zUYdfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694216126024-0eg3n4dhop6g8tv7jjs2ctuust93mki0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
